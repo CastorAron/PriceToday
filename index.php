@@ -27,10 +27,19 @@
                     Price in TSH@
                 </td>
             </thead>
+
+            <div class="ses"> 
+                <div class="names">
+
+                </div>
+                <div class="names1">
+
+                </div>
+            </div>
         </table>
         <footer>
             <div class="footer">
-                
+
             </div>
         </footer>
 
